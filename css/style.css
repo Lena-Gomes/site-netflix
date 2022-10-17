@@ -19,7 +19,7 @@ html,body{
     height: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
-    background-image: url('../logos/tvnetflix.jpg');
+    background-image: url('../img/tvnetflix.jpg');
     background-size: cover;
     background-position: center;
 }
